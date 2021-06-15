@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "type": "Cocina",
+        "title": "Peperonchino",
+        "stock": 5,
+        "price": 650,
+        "description": "Peperochino alegra tu cocina siempre que lo necesites",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2017/07/4-pepe-hoja-1.jpg"
+    },
+    {
+        "id": 2,
+        "type": "Cocina",
+        "title": "Yokito kakita",
+        "stock": 5,
+        "price": 350,
+        "description": "Yokito kakita para acompañarte siempre al baño",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2017/07/4-Yokito-Negro-1.jpg"
+    },
+    {
+        "id": 3,
+        "type": "Cocina",
+        "title": "Machi para vos",
+        "stock": 5,
+        "price": 1000,
+        "description": "La machi siempre te acompaña te lleva la yerba",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2019/05/machi-rayada-marron-2.jpg"
+    },
+    {
+        "id": 4,
+        "type": "Cocina",
+        "title": "Pancho Love",
+        "stock": 5,
+        "price": 500,
+        "description": "Pancho esta siempre para acompañarte y cuidarte tus cosas ",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2017/07/5-Pancho-uso-2.jpg"
+    },
+    {
+        "id": 5,
+        "type": "Objetos",
+        "title": "Pablo para vos",
+        "stock": 5,
+        "price": 750,
+        "description": "Pablo siempre te ayuda en esos momentos delicados",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2017/07/9-Pablo-Rosa-Pack-1.jpg"
+    },
+    {
+        "id": 6,
+        "type": "Interior",
+        "title": "Etelvina BB",
+        "stock": 5,
+        "price": 1250,
+        "description": "Etelvina siempre va al mercado con vos, te acompaña",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2017/07/3-gallina-7-de-7-1.jpg"
+    },
+    {
+        "id": 7,
+        "type": "Objetos",
+        "title": "V- king metalizado",
+        "stock": 5,
+        "price": 555,
+        "description": "V-king el rey de la picada siempre alerta para cualquier batalla",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2018/11/5-V-King-mano-1.jpg"
+    },
+    {
+        "id": 8,
+        "type": "Objetos",
+        "title": "Power Girl",
+        "stock": 5,
+        "price": 410,
+        "description": "Power Girl siempre lleva el control de todo, te animas a tomar el control?",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2019/09/6-PWR-uso-cata-1-scaled.jpg"
+    },
+    {
+        "id": 9,
+        "type": "Interior",
+        "title": "Frida",
+        "stock": 5,
+        "price": 320,
+        "description": "Frida esta en tu cocina siempre que lo necesites",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2018/08/11-Frida-naranjas-1-scaled.jpg"
+    },
+    {
+        "id": 10,
+        "type": "Cocina",
+        "title": "Etelvina Clasica",
+        "stock": 5,
+        "price": 700,
+        "description": "Siempre esta disponible para que la llenes con todo",
+        "image": "https://estoespla.com.ar/wp-content/uploads/2017/07/2-negra-1.jpg"
+    }
+]
